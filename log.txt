@@ -1,0 +1,73 @@
+[WARNING] gRobotDisplayImageFilename string value is missing (value will be copied from gRobotMaskImageFilename).
+[WARNING] No default gLogFilename string value. Log data will be written in "datalog_20210504-09h53m04s965314us_2752.txt"
+[INFO] No default gLogDirectoryname string value. Log data will be written in "logs/"
+[INFO] file "data/robot15-mask.bmp" not in 32-bits-ARGB format. Converting.
+[INFO] file "data/robot15-mask.bmp" not in 32-bits-ARGB format. Converting.
+[INFO] file "data/robot15-specs-8sensors.bmp" not in 32-bits-ARGB format. Converting.
+[INFO] Robot #0 positioned at (   760 ,   593 ) with orientation  34.4307° -- [random pick after 0 try]
+[INFO] Robot #1 positioned at (   201 ,   484 ) with orientation  16.6963° -- [random pick after 0 try]
+[INFO] Robot #2 positioned at (   320 ,   317 ) with orientation -18.0131° -- [random pick after 0 try]
+[INFO] Robot #3 positioned at (   468 ,   157 ) with orientation -133.801° -- [random pick after 0 try]
+[INFO] Robot #4 positioned at (   650 ,   759 ) with orientation -27.4244° -- [random pick after 0 try]
+[INFO] Robot #5 positioned at (   378 ,   721 ) with orientation -64.1577° -- [random pick after 0 try]
+[INFO] Robot #6 positioned at (   143 ,   240 ) with orientation  93.5059° -- [random pick after 0 try]
+[INFO] Robot #7 positioned at (   621 ,   719 ) with orientation  -37.318° -- [random pick after 0 try]
+[INFO] Robot #8 positioned at (   548 ,   538 ) with orientation -155.756° -- [random pick after 0 try]
+[INFO] Robot #9 positioned at (   391 ,   222 ) with orientation  40.3047° -- [random pick after 0 try]
+[INFO] Robot #10 positioned at (   637 ,   625 ) with orientation -13.1764° -- [random pick after 0 try]
+[INFO] Robot #11 positioned at (   233 ,   652 ) with orientation -85.8359° -- [random pick after 0 try]
+[INFO] Robot #12 positioned at (   736 ,   768 ) with orientation -68.0476° -- [random pick after 0 try]
+[INFO] Robot #13 positioned at (   352 ,   586 ) with orientation -61.4669° -- [random pick after 0 try]
+[INFO] Robot #14 positioned at (   213 ,   649 ) with orientation -84.6148° -- [random pick after 0 try]
+[INFO] Robot #15 positioned at (   446 ,   408 ) with orientation  168.339° -- [random pick after 0 try]
+[316 fps]
+[417 fps]
+
+[timestamp::start] 20210504-09h53m04s965314us
+[timestamp::stop ] 20210504-09h53m11s592826us
+[Chronometer] 7 seconds.
+
+# ___________________________ #
+#                             #
+#    Welcome to Paint Wars    #
+# ___________________________ #
+#
+#
+# Team RED : [ team Genetique ]
+# Team BLUE: Professor X
+#
+#
+Scores at iteration # 0 : { Team Blue: 8 , Team Red: 8 }
+Scores at iteration # 100 : { Team Blue: 51 , Team Red: 50 }
+Scores at iteration # 200 : { Team Blue: 61 , Team Red: 64 }
+Scores at iteration # 300 : { Team Blue: 78 , Team Red: 72 }
+Scores at iteration # 400 : { Team Blue: 82 , Team Red: 81 }
+Scores at iteration # 500 : { Team Blue: 90 , Team Red: 98 }
+Scores at iteration # 600 : { Team Blue: 96 , Team Red: 106 }
+Scores at iteration # 700 : { Team Blue: 103 , Team Red: 113 }
+Scores at iteration # 800 : { Team Blue: 110 , Team Red: 120 }
+Scores at iteration # 900 : { Team Blue: 112 , Team Red: 127 }
+Scores at iteration # 1000 : { Team Blue: 115 , Team Red: 134 }
+Scores at iteration # 1100 : { Team Blue: 112 , Team Red: 141 }
+Scores at iteration # 1200 : { Team Blue: 106 , Team Red: 147 }
+Scores at iteration # 1300 : { Team Blue: 106 , Team Red: 151 }
+Scores at iteration # 1400 : { Team Blue: 113 , Team Red: 146 }
+Scores at iteration # 1500 : { Team Blue: 113 , Team Red: 146 }
+Scores at iteration # 1600 : { Team Blue: 113 , Team Red: 146 }
+Scores at iteration # 1700 : { Team Blue: 113 , Team Red: 146 }
+Scores at iteration # 1800 : { Team Blue: 113 , Team Red: 146 }
+Scores at iteration # 1900 : { Team Blue: 113 , Team Red: 146 }
+Scores at iteration # 2000 : { Team Blue: 114 , Team Red: 146 }
+
+=-=-=-=-=-=-=-=-=
+= FINAL RESULTS =
+=-=-=-=-=-=-=-=-=
+
+Team Red  : 146
+Team Blue : 114
+tiles left: 112
+
+######################################################
+# Team RED won! Congratulations [ team Genetique ] ! #
+######################################################
+
