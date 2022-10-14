@@ -1,3 +1,5 @@
+# Attention
+This project has been made by Sorbonne University professors. My part was only to complete some files and implemente strategies.
 # SU-LU3IN025-robots
 UE LU3IN025 IA et Jeux, partie Robotique Autonome
 
